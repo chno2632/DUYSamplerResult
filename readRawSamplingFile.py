@@ -1,3 +1,4 @@
+
 import datetime
 # ADC maximumm value 14 bits? == 16383
 with open("SMPLOG3_240523.txt") as datasource:
